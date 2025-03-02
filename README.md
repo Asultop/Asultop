@@ -200,7 +200,7 @@ Windows                  16 hrs 22 mins      ███████████�
 <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/asultop/asultop/assets/images/right.png" />
 
 <!-- metrics 基础资料 -->
-<img src="https://cdn.jsdelivr.net/gh/asultop/asultop/github-metrics/base.svg" />
+<!-- <img src="https://cdn.jsdelivr.net/gh/asultop/asultop/github-metrics/base.svg" /> -->
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
@@ -331,14 +331,14 @@ Windows                  16 hrs 22 mins      ███████████�
 <img width="36%" src="https://cdn.jsdelivr.net/gh/asultop/asultop/assets/images/githubgif.gif" />
 
 <!-- first form 第一个表格 -->
-<table>
+<!-- <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/asultop/asultop/github-metrics/people.followers.svg" alt="people.followers" /></td>
   </tr>
-</table>
+</table> -->
 
 <!-- second form 第二个表格 -->
-<table>
+<!-- <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/asultop/asultop/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/asultop/asultop/github-metrics/reactions.svg" alt="reactions" /></td>
@@ -363,9 +363,9 @@ Windows                  16 hrs 22 mins      ███████████�
     <td><img src="https://cdn.jsdelivr.net/gh/asultop/asultop/github-metrics/stars.svg" alt="stars" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/asultop/asultop/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr>
-</table>
+</table> -->
 
-<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
+<!-- <img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" /> -->
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/asultop/asultop/assets/images/icon.png" /></div>
