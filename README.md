@@ -17,20 +17,6 @@
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
-  <!-- profile logo 个人资料徽标 -->
-  <!-- <div>
-    <a href="https://twitter.com/asultop/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/@asultop"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-    <a href="https://wechat.guoqi.dev"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <!-- visitor 
-    <img src="https://komarev.com/ghpvc/?username=asultop&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-    <!-- wakatime   
-    <a href="https://wakatime.com/@asultop"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
-
-  </div> -->
-
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/asultop/asultop/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
@@ -63,27 +49,6 @@
 
 - [学生] by now
 
-<!-- <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/asultop/asultop/assets/images/yuanze.png" />
-
-- [北京原则科技有限公司](https://lusun.com/) &emsp; 📌 2024-03-04 —— 2024-08-28
-
-  - 工作岗位：软件研发工程师
-  - 工作内容：软件开发与维护
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/asultop/asultop/assets/images/tuhui.png" />
-
-- [广州图慧信息科技有限公司](https://www.tuhuimap.com/) &emsp; 📌 2023-06-19 —— 2024-01-19
-
-  - 工作岗位：Web 前端开发工程师
-  - 工作内容：一些杂活
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/asultop/asultop/assets/images/nio.png" />
-
-- [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— 2023-05-12
-
-  - 工作岗位：Web 前端开发实习生
-  - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作 -->
-
 </td></tr>
 
 <tr><td>
@@ -93,13 +58,6 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/asultop/asultop/assets/images/astronaut.png" />
 
 None Here ( lol
-<!-- feed start -->
-<!-- - Mar 18 - [昆仑巢「疯狂星期六」，没有人是一座孤岛～](https://blog.guoqi.dev/posts/kunlunchao/)
-- Mar 10 - [你好，北京！你好，原则科技！一切都是最好的安排！](https://blog.guoqi.dev/posts/yuanze/)
-- Feb 20 - [行则将至，未来可期，和 2023 好好说声再见吧！](https://blog.guoqi.dev/posts/2023/)
-- Feb 16 - [西藏之旅｜青春没有售价，火车直达拉萨！](https://blog.guoqi.dev/posts/xizang/)
-- Jan 03 - [珠海之旅｜去感受风，去聆听海，去触摸，去抵达](https://blog.guoqi.dev/posts/zhuhai/) -->
-<!-- feed end -->
 
 </td></tr>
 
@@ -167,6 +125,7 @@ Windows                  16 hrs 22 mins      ███████████�
 
  Last Updated on 29/03/2024 01:15:34 UTC
 <!--END_SECTION:waka-->
+
 
 </td></tr>
 
@@ -257,21 +216,21 @@ Windows                  16 hrs 22 mins      ███████████�
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
+<!-- ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat) -->
+<!-- ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat) -->
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
+<!-- ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat) -->
 ![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
-![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
-![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
+<!-- ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat) -->
+<!-- ![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat) -->
 
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
 ![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat)
-![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat)
+<!-- ![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat) -->
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
-![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
+<!-- ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat) -->
+<!-- ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat) -->
 ![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
